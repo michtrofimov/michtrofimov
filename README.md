@@ -8,10 +8,7 @@ You look great! Please, enjoy yourself at my repo.
 ## BIO
 
 - Name: Michil Trofimov
-- Occupation: MEME creator in Skolteч
+- Occupation: Skoltech
+- Masters in bioinformatics
 
-- Favourite quote:
-> ***Okay i pull up!***
->  
-> Sun Tzu
 
