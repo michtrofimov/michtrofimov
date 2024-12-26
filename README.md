@@ -1,8 +1,9 @@
 **Master of Science in Bioinformatics, Skoltech**
+**TeamLead in Genotek**
 
 Interests:
 
-🧬 Cancer biology, transriptomics
+🧬 Genomics
 
 💻 ML enthusiast
 
