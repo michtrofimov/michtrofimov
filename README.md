@@ -1,4 +1,5 @@
 **Master of Science in Bioinformatics, Skoltech**
+
 **TeamLead in Genotek**
 
 Interests:
