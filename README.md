@@ -1,11 +1,6 @@
-**Master of Science in Bioinformatics, Skoltech**
+**Bioinformatician**
 
-**Bioinformatician, Genotek**
-
-Interests:
-
-🧬 Genomics
-
+🧬 Omics data
 💻 ML enthusiast
 
 ## Contacts
